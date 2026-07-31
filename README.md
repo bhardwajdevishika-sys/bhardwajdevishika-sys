@@ -16,6 +16,10 @@
 
 📊 Passionate about Data Analytics, Business Intelligence & Machine Learning
 
+📍 India
+
+💼 Open to Data Analyst & Business Intelligence Opportunities
+
 🌱 Currently learning
 
 - Advanced SQL
@@ -23,16 +27,11 @@
 - Python
 - Machine Learning
 - Data Visualization
-
-💼 Looking for
-
-- Data Analyst Internship
-- Data Analyst Roles
-- Business Intelligence Roles
+  
 
 ⚡ Fun Fact
 
-> I enjoy converting raw data into meaningful business insights.
+> I enjoy solving real-world business problems using data analytics and visualization.
 
 ---
 
@@ -124,12 +123,19 @@ Exploratory Data Analysis project that uncovers trends in Netflix content, genre
 
 # 🏆 Certifications
 
-🏅 Infosys Springboard Certification
+# 🏆 Certifications
 
-🏅 freeCodeCamp Machine Learning Certification
+🎓 Complete Data Analyst Bootcamp: From Basics to Advanced (Udemy)
 
-🏅 Data Analytics Certification
+🤖 Machine Learning with Python (freeCodeCamp)
 
+🗄️ SQL (Intermediate) – HackerRank
+
+📊 Introduction to Data Science Job Simulation – Forage
+
+✨ GenAI Powered Data Analytics Job Simulation – Forage
+
+🌱 Springboard Young Industry Program – Infosys Springboard
 ---
 
 # 📈 GitHub Stats
