@@ -121,7 +121,6 @@ Exploratory Data Analysis project that uncovers trends in Netflix content, genre
 
 ---
 
-# 🏆 Certifications
 
 # 🏆 Certifications
 
@@ -138,37 +137,6 @@ Exploratory Data Analysis project that uncovers trends in Netflix content, genre
 🌱 Springboard Young Industry Program – Infosys Springboard
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhardwajdevishika-sys&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajdevishika-sys&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=bhardwajdevishika-sys&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhardwajdevishika-sys&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
